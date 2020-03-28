@@ -33,6 +33,10 @@ a {
   text-align: justify;
 }
 
+ul {
+  list-style-type: none;
+}
+
 #logo {
   height: 90px;
   width: 90px;
